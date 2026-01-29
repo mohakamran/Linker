@@ -3,6 +3,9 @@
 A production-ready, full-stack MERN web application designed for photographers and content creators to share curated photo and video collections via private, secure links. Think Google Drive, but optimized for visual storytelling.
 
 ![Linker Dashboard](Screenshot.png)
+![Category Management](Screenshot2.png)
+![Media Gallery](Screenshot3.png)
+![Public Share View](Screenshot4.png)
 
 ## ✨ Features
 
@@ -19,7 +22,7 @@ A production-ready, full-stack MERN web application designed for photographers a
 - Rename, delete, and manage categories effortlessly
 - View category statistics (file count, creation date)
 
-![Category Management](Screenshot2.png)
+
 
 ### 📤 Powerful Upload System
 - **Drag & drop** file uploads
@@ -36,7 +39,7 @@ A production-ready, full-stack MERN web application designed for photographers a
 - Video playback support
 - Access complete upload history
 
-![Media Gallery](Screenshot3.png)
+
 
 ### 🔗 Shareable Links (Core Feature)
 - **One-click link generation** for any category
@@ -46,7 +49,7 @@ A production-ready, full-stack MERN web application designed for photographers a
 - Isolated access (no visibility to other categories)
 - Perfect for client reviews or team collaboration
 
-![Public Share View](Screenshot4.png)
+
 
 ### 🎨 Premium UI/UX
 - Modern dark theme with soft gradients
